@@ -67,7 +67,7 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 - output file: final output file after all iterations. The name is specified by the --output tag (output.jpg by default).
 - output-iterN.jpg: the intermediate result after N iterations. If there are 20 iterations, there will be 20 output images.
 
-# Results:
+# Results
 
 **Texture Synthesis:**
 
@@ -83,10 +83,17 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 **Spatial Constraints with Tags**
 
-![image](https://user-images.githubusercontent.com/97613092/164105031-3f0fedb0-d906-4e1c-b7c0-c0dd9c361dca.png)
+![image](https://user-images.githubusercontent.com/97613092/164105655-43f3527b-319c-4d4b-8442-383396ed8e05.png)
 
 <Br/>
 
 **Loss Function Convergence and Time-complexity**
 
 ![image](https://user-images.githubusercontent.com/97613092/164105523-39e6d9d6-1d87-4cef-8b59-a401cd77a955.png)
+
+<Br/>
+
+# Traditional Machine Learning Method
+
+**Results using KNN:**
+![1650404189(1)](https://user-images.githubusercontent.com/97613092/164105941-1b30e8fd-f1fc-4eae-b9f1-481fb9d6db11.jpg)

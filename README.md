@@ -70,10 +70,23 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 # Results:
 
 **Texture Synthesis:**
+
+<Br/>
+
 ![image](https://user-images.githubusercontent.com/97613092/164103989-e34b056c-40f6-413d-8a9b-93469e04a445.png)
 
+<Br/>
+
 **Style Transfer:**
+
+<Br/>
+
 ![image](https://user-images.githubusercontent.com/97613092/164104446-f418776b-92ac-4491-b125-7381ae0dafd1.png)
 
+<Br/>
+
 **Spatial Constraints with Tags**
+
+<Br/>
+
 ![image](https://user-images.githubusercontent.com/97613092/164105031-3f0fedb0-d906-4e1c-b7c0-c0dd9c361dca.png)

@@ -31,7 +31,7 @@ for the three main sections of the reproducibility experiment. Additional textur
 All my codes has been tested with Python 3.7 on Ubuntu 18.04.
 
 
-
+\\
 **Pretrained vgg-19 network**
 
 A custom vgg network is used, as explained in the supplementals. It has been modified compared to the keras standard model:

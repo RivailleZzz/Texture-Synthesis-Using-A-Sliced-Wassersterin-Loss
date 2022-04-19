@@ -1,6 +1,8 @@
 # Texture Synthesis Using A Sliced Wassersterin Loss
 
 ![image](https://user-images.githubusercontent.com/97613092/164106212-ec6816ad-dacd-48ac-beae-1353d6a56f1f.png)
+
+The original codes and files are listed in the /1. original codes and files
 Run the Colab notebooks:
 
 - style Transfer.ipynb

@@ -1,4 +1,4 @@
-# Texture-Synthesis-Using-A-Sliced-Wassersterin-Loss
+# Texture Synthesis Using A Sliced Wassersterin Loss
 
 Run the Colab notebooks:
 

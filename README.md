@@ -1,9 +1,9 @@
 # Texture Synthesis Using A Sliced Wassersterin Loss
 
-This is the official implementation of "A Sliced Wasserstein Loss for Neural Texture Synthesis" paper (to appear in CVPR 2021).
+![image](https://user-images.githubusercontent.com/97613092/164106277-8b11e365-43d7-4f42-a941-f83736966d2e.png)
 
-![image](https://user-images.githubusercontent.com/97613092/164089466-5b4b8796-419c-44fa-a825-bb02d046859b.png)
 
+![image](https://user-images.githubusercontent.com/97613092/164106212-ec6816ad-dacd-48ac-beae-1353d6a56f1f.png)
 Run the Colab notebooks:
 
 - style Transfer.ipynb

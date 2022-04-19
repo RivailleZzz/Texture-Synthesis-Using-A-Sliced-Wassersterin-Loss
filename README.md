@@ -4,7 +4,7 @@
 
 <Br/>
 
-In this document, I will briefly introduce the requirements, models and parameters and the results of my experiments. The results of synthesized textures using traditional machine learning methods are also presented here. More detailed results and the corresponding explanations are available in my paper.
+In this document, I will briefly introduce the requirements, models and parameters and the results of my experiments. The results of synthesized textures using traditional machine learning methods are also presented here. More detailed introduction, principles, results and the corresponding explanations are available in my paper.
 
 <Br/>
 

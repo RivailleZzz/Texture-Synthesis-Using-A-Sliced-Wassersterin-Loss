@@ -18,27 +18,29 @@ for the three main sections of the reproducibility experiment. Additional textur
 
 **The following libraries are required:**
 
-matplotlib==3.2.1
+- matplotlib==3.2.1
 
-numpy==1.18.5
+- numpy==1.18.5
 
-scipy==1.4.1
+- scipy==1.4.1
 
-tensorflow-gpu==2.2.0
+- tensorflow-gpu==2.2.0
 
-Pillow==7.1.2
+- Pillow==7.1.2
 
 All my codes has been tested with Python 3.7 on Ubuntu 18.04.
+
+
 
 **Pretrained vgg-19 network**
 
 A custom vgg network is used, as explained in the supplementals. It has been modified compared to the keras standard model:
 
-inputs are preprocessed (including normalization with imagenet stats).
+- inputs are preprocessed (including normalization with imagenet stats).
 
-activations are scaled.
+- activations are scaled.
 
-max pooling layers are replaced with average pooling layers.
+- max pooling layers are replaced with average pooling layers.
 
-zero padding is remplaced with reflect padding.
+- zero padding is remplaced with reflect padding.
 

@@ -12,7 +12,23 @@ The original files are very limited, I've collected all the provided codes and f
 
 <Br/>
 
+To get and study the relevant results of these texture related tasks, run the Colab notebooks:
 
+- style Transfer.ipynb
+
+- Texture Synthesis.ipynb
+
+- Texture with tags.ipynb
+
+For the three main sections of the reproducibility experiments, the images used in my experiments and some additional textures can be found in /AdditionalTextures and /Styletransfer. Spatial Tags can be found in /SpatialTags.
+
+<Br/>
+
+For the traditional machine learning method, run the Colab notebook:
+
+- Traditional Machine Learning Methods.ipynb
+
+<Br/>
 
 
 # Requirements
@@ -68,23 +84,6 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 # Results
 
-To get and study the relevant results of these texture related tasks, run the Colab notebooks:
-
-- style Transfer.ipynb
-
-- Texture Synthesis.ipynb
-
-- Texture with tags.ipynb
-
-For the three main sections of the reproducibility experiments, the images used in my experiments and some additional textures can be found in /AdditionalTextures and /Styletransfer. Spatial Tags can be found in /SpatialTags.
-
-<Br/>
-
-For the traditional machine learning method, run the Colab notebook:
-
-- Traditional Machine Learning Methods.ipynb
-
-<Br/>
 
 **Texture Synthesis:**
 

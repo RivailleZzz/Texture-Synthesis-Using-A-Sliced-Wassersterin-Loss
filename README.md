@@ -45,6 +45,8 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 - zero padding is remplaced with reflect padding.
 
+<Br/>
+
 # Texture related parameters
 
 **The imput parameters are:**
@@ -62,6 +64,8 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 - output file: final output file after all iterations. The name is specified by the --output tag (output.jpg by default).
 - output-iterN.jpg: the intermediate result after N iterations. If there are 20 iterations, there will be 20 output images.
 
+<Br/>
+
 # Results
 
 Run the Colab notebooks:
@@ -72,7 +76,7 @@ Run the Colab notebooks:
 
 - Texture with tags.ipynb
 
-For the three main sections of the reproducibility experiments, the images used in my experiments and some additional textures can be found in /AdditionalTextures and /Styletransfer. Spatial Tags are found in /SpatialTags.
+For the three main sections of the reproducibility experiments, the images used in my experiments and some additional textures can be found in /AdditionalTextures and /Styletransfer. Spatial Tags can be found in /SpatialTags.
 
 <Br/>
 
@@ -80,6 +84,7 @@ For the traditional machine learning method, run the Colab notebook:
 
 - Traditional Machine Learning Methods.ipynb
 
+<Br/>
 
 **Texture Synthesis:**
 

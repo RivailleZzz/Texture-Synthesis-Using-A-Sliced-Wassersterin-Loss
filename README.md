@@ -71,15 +71,11 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 **Texture Synthesis:**
 
-<Br/>
-
 ![image](https://user-images.githubusercontent.com/97613092/164103989-e34b056c-40f6-413d-8a9b-93469e04a445.png)
 
 <Br/>
 
 **Style Transfer:**
-
-<Br/>
 
 ![image](https://user-images.githubusercontent.com/97613092/164104446-f418776b-92ac-4491-b125-7381ae0dafd1.png)
 
@@ -87,6 +83,10 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 **Spatial Constraints with Tags**
 
+![image](https://user-images.githubusercontent.com/97613092/164105031-3f0fedb0-d906-4e1c-b7c0-c0dd9c361dca.png)
+
 <Br/>
 
-![image](https://user-images.githubusercontent.com/97613092/164105031-3f0fedb0-d906-4e1c-b7c0-c0dd9c361dca.png)
+**Loss Function Convergence and Time-complexity**
+
+![image](https://user-images.githubusercontent.com/97613092/164105523-39e6d9d6-1d87-4cef-8b59-a401cd77a955.png)

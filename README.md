@@ -17,6 +17,8 @@ For the traditional machine learning method, run the Colab notebook:
 
 - Traditional Machine Learning Methods.ipynb
 
+In the following sections, I will briefly introduce the requirements, models and parameters and the results of my experiments. The results of synthesized textures using traditional machine learning methods are also presented here. More detailed results and the corresponding explanations are available in my paper.
+
 # Requirements
 
 **The following libraries are required:**
@@ -93,4 +95,5 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 # Traditional Machine Learning Method
 
 **Results using KNN:**
+
 ![image](https://user-images.githubusercontent.com/97613092/164106060-7d2f9c7b-c0ac-497a-a849-f02a5d60771f.png)

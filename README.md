@@ -6,13 +6,19 @@ This is the official implementation of "A Sliced Wasserstein Loss for Neural Tex
 
 Run the Colab notebooks:
 
-- style_transfer.ipynb
+- style Transfer.ipynb
 
-- texture_synthesis.ipynb
+- Texture Synthesis.ipynb
 
-- texture_synthesis_with_tags.ipynb
+- Texture with tags.ipynb
 
-For the three main sections of the reproducibility experiment. Additional textures are found in /AdditionalTextures. Spatial Tags are found in SpatialTags.
+For the three main sections of the reproducibility experiments, the images used in my experiments and some additional textures can be found in /AdditionalTextures and /Styletransfer. Spatial Tags are found in /SpatialTags.
+
+<Br/>
+
+For the traditional machine learning method, run the Colab notebook:
+
+- Traditional Machine Learning Methods.ipynb
 
 # Requirements
 

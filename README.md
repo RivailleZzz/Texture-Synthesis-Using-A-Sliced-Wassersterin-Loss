@@ -50,9 +50,9 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 - zero padding is remplaced with reflect padding.
 
-# Texture synthesis 
+# Texture related parameters
 
-**The parameters are:**
+**The imput parameters are:**
 
 - iters: number of calls to l-bfgs (by default: 20). Each step is one call to scipy's l-bfgs implementation with maxfun=64.
 - size: the input texture will be resized to this size (by default: 256, which resizes to 256x256). If the image is not square, it will be center-cropped. The - generated texture will have the same resolution.
@@ -61,8 +61,19 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 <Br/>
 
-**Outputs files are:**
+**The output parameters are:**
 
 - resized-input.jpg: input image is resized following the --size parameter. It will be exported as "resized-input.jpg" so it can be compared with the generated output.
 - output file: final output file after all iterations. The name is specified by the --output tag (output.jpg by default).
 - output-iterN.jpg: the intermediate result after N iterations. If there are 20 iterations, there will be 20 output images.
+
+# Results:
+
+**Texture Synthesis:**
+![image](https://user-images.githubusercontent.com/97613092/164103989-e34b056c-40f6-413d-8a9b-93469e04a445.png)
+
+**Style Transfer:**
+![image](https://user-images.githubusercontent.com/97613092/164104446-f418776b-92ac-4491-b125-7381ae0dafd1.png)
+
+**Spatial Constraints with Tags**
+![image](https://user-images.githubusercontent.com/97613092/164105031-3f0fedb0-d906-4e1c-b7c0-c0dd9c361dca.png)

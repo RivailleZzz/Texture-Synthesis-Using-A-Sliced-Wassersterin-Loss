@@ -2,11 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/97613092/164106212-ec6816ad-dacd-48ac-beae-1353d6a56f1f.png)
 
+<Br/>
+
 In this document, I will briefly introduce the requirements, models and parameters and the results of my experiments. The results of synthesized textures using traditional machine learning methods are also presented here. More detailed results and the corresponding explanations are available in my paper.
 
 <Br/>
 
-The original files are very limited, I've collected all the provided codes and files to the folder "1. original codes and files", and I summarized all my codes (implementation, innovations and traditional machine learning method) in the folder "2. Texture Synthesis Using A Sliced Wassersterin Loss". The names of all the codes in the folder correspond to their functions, so that we can conveniently find and study them.
+The original files are very limited, I've collected all the provided codes and files to the folder "**1. original codes and files**", and I summarized all my codes (implementation, innovations and traditional machine learning method) in the folder "**2. Texture Synthesis Using A Sliced Wassersterin Loss**". The names of all the codes in the folder correspond to their functions, so that we can conveniently find and study them.
 
 <Br/>
 

@@ -20,8 +20,6 @@ To get and study the relevant results of these texture related tasks, run the Co
 
 - Texture with tags.ipynb
 
-For the three main sections of the reproducibility experiments, the images used in my experiments and some additional textures can be found in /AdditionalTextures and /Styletransfer. Spatial Tags can be found in /SpatialTags.
-
 <Br/>
 
 For the traditional machine learning method, run the Colab notebook in the folder "**2. Texture Synthesis Using A Sliced Wassersterin Loss**":
@@ -30,6 +28,7 @@ For the traditional machine learning method, run the Colab notebook in the folde
 
 <Br/>
 
+The images used in my experiments and some additional textures can be also found in the subfolders of the folder "**2. Texture Synthesis Using A Sliced Wassersterin Loss**"
 
 # Requirements
 

@@ -12,7 +12,7 @@ Run the Colab notebooks:
 
 - texture_synthesis_with_tags.ipynb
 
-For the three main sections of the reproducibility experiment. Additional textures are found in /AdditionalTextures. Spatial Tags are found in /SpatialTags.
+For the three main sections of the reproducibility experiment. Additional textures are found in /AdditionalTextures. Spatial Tags are found in SpatialTags.
 
 # Requirements
 
@@ -30,7 +30,7 @@ For the three main sections of the reproducibility experiment. Additional textur
 
 All my codes has been tested with Python 3.7 on Ubuntu 18.04.  
 
-
+<Br/>
 
 **Pretrained vgg-19 network**
 

@@ -96,4 +96,4 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 # Traditional Machine Learning Method
 
 **Results using KNN:**
-![1650404189(1)](https://user-images.githubusercontent.com/97613092/164105941-1b30e8fd-f1fc-4eae-b9f1-481fb9d6db11.jpg)
+![image](https://user-images.githubusercontent.com/97613092/164106060-7d2f9c7b-c0ac-497a-a849-f02a5d60771f.png)

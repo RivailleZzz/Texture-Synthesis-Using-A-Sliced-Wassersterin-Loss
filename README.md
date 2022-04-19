@@ -68,7 +68,7 @@ A custom vgg network is used, as explained in the supplementals. It has been mod
 
 # Results
 
-Run the Colab notebooks:
+To get and study the relevant results of these texture related tasks, run the Colab notebooks:
 
 - style Transfer.ipynb
 

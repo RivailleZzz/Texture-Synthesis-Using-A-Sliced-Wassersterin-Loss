@@ -30,6 +30,9 @@ For the traditional machine learning method, run the Colab notebook in the folde
 
 The images used in my experiments and some additional textures can be also found in the subfolders of the folder "**2. Texture Synthesis Using A Sliced Wassersterin Loss**"
 
+<Br/>
+
+
 # Requirements
 
 **The following libraries are required:**
